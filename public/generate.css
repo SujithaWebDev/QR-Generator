@@ -1,0 +1,35 @@
+h1{
+    margin: 10px auto;
+    font-size: 60px;
+    width: fit-content;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+.qrdiv{
+    /* border: 1px solid black;
+    width: 506px;
+    height: 390px;
+    margin: 127px auto 50px; */
+}
+.qrdiv img{
+    width: 400px;
+    margin: 54px 0px 0px;
+}
+p{
+    font-size: 22px;
+    margin: 27px auto;
+}
+button{
+    padding: 5px 13px;
+    background-color: greenyellow;
+    border: none;
+}
+button:hover{
+    background-color: yellow;
+}
+.qrmaindiv{
+    text-align: center;
+}
