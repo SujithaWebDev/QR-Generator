@@ -22,4 +22,4 @@ app.post("/yourqr",(req,res)=>{
         res.render('generate',{sujitha:data})
     })
 })
-app.listen(4001);
+app.listen(10000);
